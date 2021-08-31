@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Whiplash",
+        "published_at": "2021-08-30T10:13:20.164Z",
+        "created_at": "2021-08-30T10:04:47.085Z",
+        "updated_at": "2021-08-30T10:13:20.188Z",
+        "products": [
+            {
+                "id": 1,
+                "title": "Velouria",
+                "description": "Velouria from Whiplash is a New England IPA from Ireland. It has an overall rating of 4.1 in Untappd, taste has a high ABV (8.2%) together with a moderate bitterness. \n\nNEIPA or New England India Pale Ale is one of the more recent styles in the craft beer world. Its characterized by its hazy, turbid, even opaque appearance. Hop flavour is very high, and aromas are fruity and tropical. It has a smooth and juicy character. Compared to an American IPA, a NEIPA is more fruity, less bitter and much hazier.",
+                "price": 6.9,
+                "brand": 1,
+                "alcohol": 8.2,
+                "images": [
+                    {
+                        "id": 1,
+                        "name": "victoria.png",
+                        "formats": {
+                            "thumbnail": {
+                                "url": "/uploads/thumbnail_victoria_de659647d4.png"
+                            },
+                            "small": {
+                                "url": "/uploads/small_victoria_de659647d4.png"
+                            }
+                        },
+                        "url": "/uploads/victoria_de659647d4.png"
+                    }
+                ]
+            }
+        ]
+    }
+]
