@@ -18,11 +18,17 @@ class _HomePageState extends State<HomePage> {
 
   @override
   Widget build(BuildContext context) {
-    getProducts();
     return Scaffold(
       appBar: AppBar(
         title: Text("Beer Tonight"),
         centerTitle: true,
+        actions: [
+          IconButton(
+              onPressed: () {
+                setState(() {});
+              },
+              icon: Icon(Icons.refresh))
+        ],
       ),
       body: SafeArea(
         child: Container(
